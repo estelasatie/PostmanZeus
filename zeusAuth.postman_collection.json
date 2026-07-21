@@ -1,9 +1,8 @@
 {
 	"info": {
-		"_postman_id": "28a1981a-a176-41c9-913c-45a4d6ac4955",
+		"_postman_id": "68cc6456-c005-4d14-ad41-7489ec71c3d8",
 		"name": "zeusAuth 07/26",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "15998857"
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
 		{
